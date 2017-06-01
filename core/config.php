@@ -4,7 +4,7 @@ define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'hospital');
 define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_PASS', 'C#klh?!879');
 define('DB_CHARSET', 'utf8');
 
 define('URL_PUBLIC_FOLDER', 'public'); 
